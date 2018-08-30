@@ -155,7 +155,7 @@ echo "</script>";
 				<div class="row" id = "admn" style = "margin-top : 5vh;">
 					<div class="col-sm-12">
 						<h3 class = "text-center" style = "margin-bottom : 6vh;">Admission Process</h3>
-						<p>Welcome to St Aloysius PU College. For 138 years St Aloysius College has stood high and proud on the Idgah Hill, admiring and being admired by the city and its education lovers. Renowned for its quality education, SAPUC remains true to the vision and mission of its mother institution, imparting all-round development to the students who choose it as their Alma Mater. Now that you have chosen to be a part of this glorious saga, here is how you can take the first step forward:</p>
+						<p>Welcome to ABC PU College. For 138 years ABC College has stood high and proud on the Idgah Hill, admiring and being admired by the city and its education lovers. Renowned for its quality education, SAPUC remains true to the vision and mission of its mother institution, imparting all-round development to the students who choose it as their Alma Mater. Now that you have chosen to be a part of this glorious saga, here is how you can take the first step forward:</p>
 						<p>SAPUC offers courses in Science,Commerce and Arts in various combinations. The applications for the same are available at the College office which remains open from 8.45am to 5.00pm.</p>
 						<p>
 						<?php
